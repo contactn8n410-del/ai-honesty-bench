@@ -88,4 +88,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-MIT
+Apache 2.0 — See [LICENSE](LICENSE)
